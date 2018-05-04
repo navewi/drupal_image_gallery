@@ -2,20 +2,20 @@
 
 body {
   color: #ffffff;
-  background: #000000;
+  background: #ffffff;
 }
 #page,
 #main-wrapper,
 .region-primary-menu .menu-item a.is-active,
 .region-primary-menu .menu-item--active-trail a {
-  background: #000000;
+  background: #ffffff;
 }
 .tabs ul.primary li a.is-active {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .tabs ul.primary li.is-active a {
-  background-color: #000000;
-  border-bottom-color: #000000;
+  background-color: #ffffff;
+  border-bottom-color: #ffffff;
 }
 #header {
   background-color: #000000;
@@ -41,7 +41,7 @@ a:active,
   border-color: #000000;
 }
 .site-footer {
-  background: #000000;
+  background: #ffffff;
 }
 .region-header,
 .region-header a,
