@@ -1,7 +1,7 @@
 /* ---------- Color Module Styles ----------- */
 
 body {
-  color: #ffffff;
+  color: #000000;
   background: #1d1d1d;
 }
 #page,
@@ -24,17 +24,17 @@ body {
 }
 a,
 .link {
-  color: #ffffff;
+  color: #cecece;
 }
 a:hover,
 a:focus,
 .link:hover,
 .link:focus {
-  color: #faf5f5;
+  color: #e2bebe;
 }
 a:active,
 .link:active {
-  color: #fefdfd;
+  color: #eccece;
 }
 .sidebar .block {
   background-color: #000000;
