@@ -59,3 +59,7 @@
 .site-branding__logo > img:nth-child(1) {
     margin-bottom: -6px;
 }
+
+.cboxPhoto{
+    color: #1b1b1b;
+}
